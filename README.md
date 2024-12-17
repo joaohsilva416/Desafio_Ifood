@@ -12,7 +12,7 @@ Desafio proposto no módulo de Estatística Descritiva do curso **EBA - Estatís
 
 ## 🛠Pré-processamento
 *Considerações Importantes*:
-1. Os dados não serão disponibilizados, para manter a integridade do curso
+1. Os dados não serão disponibilizados, para manter a proteção dos mesmos.
 
 *Etapas do Pré-processamento*:
 1. Importar as bibliotecas para análise dos dados;
