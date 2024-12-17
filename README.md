@@ -28,8 +28,8 @@ as pessoas que não possuem filhos tendem a gastar mais. Também encontramos uma
 a gastar.
 
 Minha sugestão seria em direcionar melhores promoções aos clientes com mais filhos e menores salários, assim como oferecer mais benefícios como frete grátis. 
-Já para os clientes que tendem a gastar mais, poderiam ter ofertas exclusivas com melhore cupons,por exemplo cupons com alta porcentagem de desconto, e até 
-criar um plano de fidelidade para essas pessoas, assim reforçando a importância das pessoas que gastam mais.
+Já para os clientes que tendem a gastar mais, poderiam ter ofertas exclusivas com melhorse cupons,por exemplo cupons com alta porcentagem de desconto, e até 
+criar um plano de fidelidade para essas pessoas, assim reforçando a importância das mesmas.
 
 ## 📜 Estrutura do Projeto
 A estrutura de diretórios do projeto foi organizada da seguinte forma:
